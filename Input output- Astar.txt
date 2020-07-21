@@ -1,0 +1,26 @@
+                                
+*************CODES**************
+
+UCS.java, HeuristicFunction.java
+
+
+**************INPUT*************
+
+Enter the number of vertices
+4
+Enter the Weighted Matrix for the graph
+0 2 5 2
+2 0 4 7
+5 4 0 3
+2 7 3 0
+Enter the source 
+0
+
+
+************OUTPUT**************
+
+
+Travelling Salesman path is:--
+[0, 3, 2, 1, 0]
+
+Total path cost  is 11

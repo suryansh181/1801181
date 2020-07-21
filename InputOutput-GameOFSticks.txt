@@ -1,0 +1,39 @@
+**********INPUT**************
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+23
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+
+
+
+**********OUTPUT***********
+
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+
+Computer_2 HAS WON THE TOSS:
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+Computer_2 won the game
+
